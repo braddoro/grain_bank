@@ -84,6 +84,7 @@ unset($response);
 <br>
 <span style='spanl'>Grain Transactions <img src="icon/add2.jpg" style="border:none;max-width:16px;max-height:16px;" alt="Click to show hide the input form." onClick="view.showIt('addTrans')"></span>
 <div id="addTrans" style="display:none;">
+	<div style="width:50%">
 		<h1><a>Add Transaction</a></h1>
 		<form id="formTrans" class="appnitro" method="post" action="grain.php">
 			<ul >
@@ -123,6 +124,7 @@ unset($response);
 		</li>
 			</ul>
 		</form>	
+	</div>
 </div>
 
 <table>

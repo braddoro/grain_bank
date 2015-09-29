@@ -9,16 +9,16 @@
     <Filter/>
     <CTags_Support>0</CTags_Support>
     <Word_File/>
-    <Project_Directory>/usr/share/nginx/html/grainbank</Project_Directory>
+    <Project_Directory>/usr/share/nginx/html/grain_bank</Project_Directory>
     <Tag_File/>
   </Project_Information>
   <Project_ID>
     <Signature>UE Proj: v.1</Signature>
   </Project_ID>
   <Files>
-    <File>/usr/share/nginx/html/grainbank/</File>
+    <File>/usr/share/nginx/html/grain_bank/</File>
   </Files>
   <Group_Filter>
-    <OF Name="/usr/share/nginx/html/grainbank/">*.*</OF>
+    <OF Name="/usr/share/nginx/html/grain_bank/">*.*</OF>
   </Group_Filter>
 </PRJ>
