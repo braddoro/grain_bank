@@ -27,11 +27,11 @@ if(isset($_POST)){
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="css/grain.css">
-<link rel="stylesheet" type="text/css" href="css/view.css">
-<link type="text/javascript" href="css/view.js"></script>	
-<script type="text/javascript" src="js/calendar.js"></script>
-<script type="text/javascript" src="js/view_library.js"></script>	
+<link rel="stylesheet" type="text/css" href="../css/grain.css">
+<link rel="stylesheet" type="text/css" href="../css/view.css">
+<link type="text/javascript" href="../css/view.js"></script>	
+<script type="text/javascript" src="../js/calendar.js"></script>
+<script type="text/javascript" src="../js/view_library.js"></script>	
 <script>view = new ViewLibrary();</script>
 <title>Grain Bank</title>
 </head>
@@ -82,7 +82,7 @@ unset($response);
 </tfoot>
 </table>
 <br>
-<span style='spanl'>Grain Transactions <img src="icon/add2.jpg" style="border:none;max-width:16px;max-height:16px;" alt="Click to show hide the input form." onClick="view.showIt('addTrans')"></span>
+<span style='spanl'>Grain Transactions <img src="../icon/add2.jpg" style="border:none;max-width:16px;max-height:16px;" alt="Click to show hide the input form." onClick="view.showIt('addTrans')"></span>
 <div id="addTrans" style="display:none;">
 	<div style="width:50%">
 		<h1><a>Add Transaction</a></h1>
